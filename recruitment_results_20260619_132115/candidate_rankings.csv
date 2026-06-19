@@ -1,0 +1,11 @@
+Rank,Name,Overall_Score,Semantic_Fit,Skill_Match,Experience_Match,Activity_Score,Years_Experience,Skills
+1,Sarah Johnson,369.14,81.36,77.78,140.0,70.0,7,"Python, Machine Learning, TensorFlow, PyTorch, AWS, Docker, Kubernetes, SQL, Deep Learning, NLP"
+2,David Kim,289.18,62.38,33.33,150.0,43.47,8,"C++, Python, Computer Vision, OpenCV, Deep Learning, CUDA, TensorRT, Edge AI"
+3,Alex Thompson,285.99,58.55,44.44,120.0,63.0,6,"Python, JavaScript, React, Node.js, MongoDB, AWS, GraphQL, Docker, CI/CD"
+4,Robert Taylor,271.78,58.45,33.33,150.0,30.0,10,"Python, Java, Spring, AWS, Azure, GCP, Kubernetes, Terraform, Jenkins, DevOps"
+5,Jennifer Lee,258.19,69.53,33.33,120.0,35.33,6,"Python, SQL, Machine Learning, Deep Learning, Data Engineering, Spark, Airflow, dbt"
+6,James Wilson,242.73,46.73,0.0,150.0,46.0,9,"React, Angular, Vue.js, JavaScript, TypeScript, CSS, HTML5, UI/UX, Webpack"
+7,Maria Garcia,230.68,65.82,33.33,100.0,31.53,5,"Python, TensorFlow, NLP, BERT, GPT, Transformers, MLOps, AWS SageMaker"
+8,Mike Chen,217.33,47.64,22.22,100.0,47.47,5,"Java, Spring Boot, Microservices, AWS, Docker, React, PostgreSQL, Redis, Kafka"
+9,Emily Rodriguez,172.35,37.57,11.11,80.0,43.67,4,"Python, R, SQL, Tableau, Power BI, Statistical Analysis, A/B Testing, Data Visualization"
+10,Lisa Patel,154.92,40.37,22.22,60.0,32.33,3,"Python, SQL, Machine Learning, Statistical Modeling, A/B Testing, Product Analytics"

@@ -1,0 +1,31 @@
+{
+  "timestamp": "20260619_132115",
+  "job_description": "We are looking for a Senior Machine Learning Engineer with 5+ years of experience in Python and deep learning frameworks. \n            The ideal candidate should have strong experience with TensorFlow or PyTorch, AWS cloud services, and deploying ML models to production. \n            Knowledge of NLP, computer vision, or recommendation systems is a plus. \n            You will lead a team of ML engineers and work closely with data scientists to build scalable ML pipelines.\n            Required: Docker, Kubernetes, CI/CD experience. Master's or PhD preferred.",
+  "extracted_requirements": {
+    "skills": [
+      "python",
+      "aws",
+      "docker",
+      "kubernetes",
+      "ci/cd",
+      "machine learning",
+      "deep learning",
+      "nlp",
+      "computer vision"
+    ],
+    "experience_years": 5,
+    "education": [
+      "master",
+      "phd"
+    ],
+    "soft_skills": [],
+    "responsibilities": [],
+    "domain_knowledge": [],
+    "seniority_level": "Senior"
+  },
+  "top_candidates": [
+    {
+      "rank": 1,
+      "name": "Sarah Johnson",
+      "scores": {
+        "overall": 
