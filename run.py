@@ -1,5 +1,5 @@
 """
-Quick run script for AI Recruiter
+Quick run script for TalentSight AI
 """
 import subprocess
 import sys
@@ -7,19 +7,14 @@ import os
 
 def main():
     print("=" * 60)
-    print("🎯 AI-Powered Intelligent Recruiter System")
+    print("🔍 TalentSight AI - Launching")
     print("=" * 60)
     print("\n📦 Checking and installing dependencies...")
-    
-    # Install requirements
     subprocess.check_call([sys.executable, "-m", "pip", "install", "-r", "requirements.txt", "--quiet"])
-    
-    print("✅ Dependencies installed successfully!")
-    print("\n🚀 Launching the application...")
-    print("📱 The app will open in your default browser at: http://localhost:8501")
-    print("💡 Press Ctrl+C to stop the server when done\n")
-    
-    # Run Streamlit app (Updated to run index.py!)
+    print("✅ Dependencies ready!")
+    print("\n🚀 Starting TalentSight AI...")
+    print("📱 The app will open at: http://localhost:8501")
+    print("💡 Press Ctrl+C to stop the server\n")
     os.system("streamlit run index.py")
 
 if __name__ == "__main__":
